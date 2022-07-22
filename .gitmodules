@@ -1,0 +1,309 @@
+[submodule "ancestree"]
+	path = ancestree
+	url = https://github.com/MathildeFogPerez/ancestree
+[submodule "AnnapuRNA"]
+	path = AnnapuRNA
+	url = https://github.com/filipspl/AnnapuRNA
+[submodule "PatchInference"]
+	path = PatchInference
+	url = https://github.com/hzi-bifo/PatchInference
+[submodule "fieldbioinformatics"]
+	path = fieldbioinformatics
+	url = https://github.com/artic-network/fieldbioinformatics
+[submodule "augur"]
+	path = augur
+	url = https://github.com/nextstrain/augur
+[submodule "bertax"]
+	path = bertax
+	url = https://github.com/f-kretschmer/bertax
+[submodule "CAMISIM"]
+	path = CAMISIM
+	url = https://github.com/CAMI-challenge/CAMISIM
+[submodule "CCHFV-PrimerChecker"]
+	path = CCHFV-PrimerChecker
+	url = https://github.com/cesaregruber/CCHFV-PrimerChecker
+[submodule "Cenote-Taker2"]
+	path = Cenote-Taker2
+	url = https://github.com/mtisza1/Cenote-Taker2
+[submodule "CIAlign"]
+	path = CIAlign
+	url = https://github.com/KatyBrown/CIAlign
+[submodule "ena-upload-cli"]
+	path = ena-upload-cli
+	url = https://github.com/usegalaxy-eu/ena-upload-cli
+[submodule "cojac"]
+	path = cojac
+	url = https://github.com/cbg-ethz/cojac
+[submodule "CovidStrategyCalculator"]
+	path = CovidStrategyCalculator
+	url = https://github.com/CovidStrategyCalculator/CovidStrategyCalculator
+[submodule "covigator-ngs-pipeline"]
+	path = covigator-ngs-pipeline
+	url = https://github.com/TRON-Bioinformatics/covigator-ngs-pipeline
+[submodule "dark-matter"]
+	path = dark-matter
+	url = https://github.com/acorg/dark-matter
+[submodule "darkq"]
+	path = darkq
+	url = https://github.com/phiweger/darkq
+[submodule "DeepVirFinder"]
+	path = DeepVirFinder
+	url = https://github.com/jessieren/DeepVirFinder
+[submodule "dinuq"]
+	path = dinuq
+	url = https://github.com/spyros-lytras/dinuq
+[submodule "DRUMMER"]
+	path = DRUMMER
+	url = https://github.com/DepledgeLab/DRUMMER
+[submodule "DVGfinder"]
+	path = DVGfinder
+	url = https://github.com/MJmaolu/DVGfinder
+[submodule "efinder"]
+	path = efinder
+	url = https://github.com/gruberlab/efinder
+[submodule "epa-ng"]
+	path = epa-ng
+	url = https://github.com/Pbdas/epa-ng
+[submodule "EpiDope"]
+	path = EpiDope
+	url = https://github.com/mcollatz/EpiDope
+[submodule "epitope-prediction"]
+	path = epitope-prediction
+	url = https://github.com/hzi-bifo/epitope-prediction
+[submodule "ESCA"]
+	path = ESCA
+	url = https://github.com/cesaregruber/ESCA
+[submodule "EvaTargetedCovid19Testing"]
+	path = EvaTargetedCovid19Testing
+	url = https://github.com/vgupta1/EvaTargetedCovid19Testing
+[submodule "GInPipe"]
+	path = GInPipe
+	url = https://github.com/KleistLab/GInPipe
+[submodule "Haploflow"]
+	path = Haploflow
+	url = https://github.com/hzi-bifo/Haploflow
+[submodule "hecatomb"]
+	path = hecatomb
+	url = https://github.com/shandley/hecatomb
+[submodule "HIV-phyloTSI"]
+	path = HIV-phyloTSI
+	url = https://github.com/BDI-pathogens/HIV-phyloTSI
+[submodule "hmmprospector"]
+	path = hmmprospector
+	url = https://github.com/gruberlab/hmmprospector
+[submodule "HoloVir"]
+	path = HoloVir
+	url = https://github.com/plaffy/HoloVir
+[submodule "iva"]
+	path = iva
+	url = https://github.com/sanger-pathogens/iva
+[submodule "Jovian"]
+	path = Jovian
+	url = https://github.com/DennisSchmitz/Jovian
+[submodule "MARVEL"]
+	path = MARVEL
+	url = https://github.com/LaboratorioBioinformatica/MARVEL
+[submodule "MC-CBN"]
+	path = MC-CBN
+	url = https://github.com/cbg-ethz/MC-CBN
+[submodule "Meta-CATS"]
+	path = Meta-CATS
+	url = https://github.com/JCVenterInstitute/Meta-CATS
+[submodule "MetaPhage"]
+	path = MetaPhage
+	url = https://github.com/MattiaPandolfoVR/MetaPhage
+[submodule "MetaPhinder"]
+	path = MetaPhinder
+	url = https://github.com/vanessajurtz/MetaPhinder
+[submodule "metapop"]
+	path = metapop
+	url = https://github.com/metaGmetapop/metapop
+[submodule "MUFFIN"]
+	path = MUFFIN
+	url = https://github.com/RVanDamme/MUFFIN
+[submodule "multiPhATE"]
+	path = multiPhATE
+	url = https://github.com/carolzhou/multiPhATE
+[submodule "mVIRs"]
+	path = mVIRs
+	url = https://github.com/SushiLab/mVIRs
+[submodule "OGRE"]
+	path = OGRE
+	url = https://github.com/Marleen1/OGRE
+[submodule "Pathway2Targets"]
+	path = Pathway2Targets
+	url = https://github.com/bpickett/Pathway2Targets
+[submodule "PhageBoost"]
+	path = PhageBoost
+	url = https://github.com/ku-cbd/PhageBoost
+[submodule "PhaMers"]
+	path = PhaMers
+	url = https://github.com/jondeaton/PhaMers
+[submodule "PHANOTATE"]
+	path = PHANOTATE
+	url = https://github.com/deprekate/PHANOTATE
+[submodule "phigaro"]
+	path = phigaro
+	url = https://github.com/bobeobibo/phigaro
+[submodule "PhiSpy"]
+	path = PhiSpy
+	url = https://github.com/linsalrob/PhiSpy
+[submodule "PHIST"]
+	path = PHIST
+	url = https://github.com/refresh-bio/PHIST
+[submodule "poreCov"]
+	path = poreCov
+	url = https://github.com/replikation/poreCov
+[submodule "poseidon"]
+	path = poseidon
+	url = https://github.com/hoelzer/poseidon
+[submodule "PoW_model"]
+	path = PoW_model
+	url = https://github.com/mg878/PoW_model
+[submodule "PPR-Meta"]
+	path = PPR-Meta
+	url = https://github.com/zhenchengfang/PPR-Meta
+[submodule "PrEP"]
+	path = PrEP
+	url = https://github.com/KleistLab/PrEP
+[submodule "PriSeT"]
+	path = PriSeT
+	url = https://github.com/mariehoffmann/PriSeT
+[submodule "ProphET"]
+	path = ProphET
+	url = https://github.com/jaumlrc/ProphET
+[submodule "pvogs_function"]
+	path = pvogs_function
+	url = https://github.com/MGXlab/pvogs_function
+[submodule "Quasimodo"]
+	path = Quasimodo
+	url = https://github.com/hzi-bifo/Quasimodo
+[submodule "RESEQ"]
+	path = RESEQ
+	url = https://github.com/babaksaremi/RESEQ
+[submodule "santa-sim"]
+	path = santa-sim
+	url = https://github.com/santa-dev/santa-sim
+[submodule "sars2seq"]
+	path = sars2seq
+	url = https://github.com/virologyCharite/sars2seq
+[submodule "seeker"]
+	path = seeker
+	url = https://github.com/gussow/seeker
+[submodule "silentMutations"]
+	path = silentMutations
+	url = https://github.com/desiro/silentMutations
+[submodule "spacepharer"]
+	path = spacepharer
+	url = https://github.com/soedinglab/spacepharer
+[submodule "SDplots"]
+	path = SDplots
+	url = https://github.com/hzi-bifo/SDplots
+[submodule "tabajara"]
+	path = tabajara
+	url = https://github.com/gruberlab/tabajara
+[submodule "TreeKnit.jl"]
+	path = TreeKnit.jl
+	url = https://github.com/PierreBarrat/TreeKnit.jl
+[submodule "vadr"]
+	path = vadr
+	url = https://github.com/nawrockie/vadr
+[submodule "VFM"]
+	path = VFM
+	url = https://github.com/liuql2019/VFM
+[submodule "VIBRANT"]
+	path = VIBRANT
+	url = https://github.com/AnantharamanLab/VIBRANT
+[submodule "VIcaller"]
+	path = VIcaller
+	url = https://github.com/xunchen85/VIcaller
+[submodule "vidhop"]
+	path = vidhop
+	url = https://github.com/flomock/vidhop
+[submodule "viga"]
+	path = viga
+	url = https://github.com/EGTortuero/viga
+[submodule "VIGOR4"]
+	path = VIGOR4
+	url = https://github.com/JCVenterInstitute/VIGOR4
+[submodule "VIP"]
+	path = VIP
+	url = https://github.com/keylabivdc/VIP/
+[submodule "Viral_Variant_Visualiser"]
+	path = Viral_Variant_Visualiser
+	url = https://github.com/ALFLAG/Viral_Variant_Visualiser
+[submodule "viralComplete"]
+	path = viralComplete
+	url = https://github.com/ablab/viralComplete/
+[submodule "ViralFlow"]
+	path = ViralFlow
+	url = https://github.com/dezordi/ViralFlow
+[submodule "viralMetagenomicsPipeline"]
+	path = viralMetagenomicsPipeline
+	url = https://github.com/wclose/viralMetagenomicsPipeline
+[submodule "viralrecon"]
+	path = viralrecon
+	url = https://github.com/nf-core/viralrecon
+[submodule "viralVerify"]
+	path = viralVerify
+	url = https://github.com/ablab/viralVerify/
+[submodule "ViraMiner"]
+	path = ViraMiner
+	url = https://github.com/NeuroCSUT/ViraMiner
+[submodule "virAnnot"]
+	path = virAnnot
+	url = https://github.com/marieBvr/virAnnot
+[submodule "VirFinder"]
+	path = VirFinder
+	url = https://github.com/jessieren/VirFinder
+[submodule "emg-viral-pipeline"]
+	path = emg-viral-pipeline
+	url = https://github.com/EBI-Metagenomics/emg-viral-pipeline
+[submodule "virMine"]
+	path = virMine
+	url = https://github.com/thatzopoulos/virMine
+[submodule "VirMiner"]
+	path = VirMiner
+	url = https://github.com/TingtZHENG/VirMiner
+[submodule "virnet"]
+	path = virnet
+	url = https://github.com/alyosama/virnet
+[submodule "VirSorter"]
+	path = VirSorter
+	url = https://github.com/simroux/VirSorter
+[submodule "virulign"]
+	path = virulign
+	url = https://github.com/rega-cev/virulign
+[submodule "virus_prediction"]
+	path = virus_prediction
+	url = https://github.com/rujinlong/virus_prediction
+[submodule "ViruSpy"]
+	path = ViruSpy
+	url = https://github.com/NCBI-Hackathons/ViruSpy
+[submodule "What_the_Phage"]
+	path = What_the_Phage
+	url = https://github.com/replikation/What_the_Phage
+[submodule "ncov_minipipe"]
+	path = ncov_minipipe
+	url = https://gitlab.com/RKIBioinformaticsPipelines/ncov_minipipe
+[submodule "deepac"]
+	path = deepac
+	url = https://gitlab.com/dacs-hpi/deepac
+[submodule "deepac-live"]
+	path = deepac-live
+	url = https://gitlab.com/dacs-hpi/deepac-live
+[submodule "ganon"]
+	path = ganon
+	url = https://gitlab.com/rki_bioinformatics/ganon
+[submodule "LiveKraken"]
+	path = LiveKraken
+	url = https://gitlab.com/rki_bioinformatics/LiveKraken
+[submodule "purple"]
+	path = purple
+	url = https://gitlab.com/rki_bioinformatics/purple
+[submodule "TaxIt"]
+	path = TaxIt
+	url = https://gitlab.com/mkuhring/TaxIt
+[submodule "SpikeProSARS-CoV-2"]
+	path = SpikeProSARS-CoV-2
+	url = https://github.com/3BioCompBio/SpikeProSARS-CoV-2
