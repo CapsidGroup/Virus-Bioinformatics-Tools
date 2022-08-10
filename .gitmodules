@@ -294,7 +294,7 @@
 	url = https://gitlab.com/dacs-hpi/deepac-live
 [submodule "ganon"]
 	path = ganon
-	url = https://gitlab.com/rki_bioinformatics/ganon
+	url = https://github.com/pirovc/ganon.git
 [submodule "LiveKraken"]
 	path = LiveKraken
 	url = https://gitlab.com/rki_bioinformatics/LiveKraken
@@ -307,3 +307,12 @@
 [submodule "SpikeProSARS-CoV-2"]
 	path = SpikeProSARS-CoV-2
 	url = https://github.com/3BioCompBio/SpikeProSARS-CoV-2
+[submodule "DeePaC"]
+	path = DeePaC
+	url = https://github.com/JakubBartoszewicz/DeePaC.git
+[submodule "bioconda-recipes"]
+	path = bioconda-recipes
+	url = https://github.com/bioconda/bioconda-recipes.git
+[submodule "DeePaC-vir"]
+	path = DeePaC-vir
+	url = https://github.com/JakubBartoszewicz/DeePaC-vir.git
